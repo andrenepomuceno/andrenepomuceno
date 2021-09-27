@@ -1,4 +1,4 @@
-- 👋 Hello world, I’m André. Nice to meet you!
+- 👋 Hello world!
 
 <!---
 - 👀 I’m interested in ...
