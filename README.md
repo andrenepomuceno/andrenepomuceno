@@ -1,4 +1,10 @@
-- 👋 Hello world!
+- 🤙 Hello world!
+- ❤️ Engineering
+- ❤️ Physics
+- ❤️ Computer Science
+- ❤️ Electronics
+- ❤️ Nature
+- 👽 🇧🇷 🧠 ☯️
 
 <!---
 - 👀 I’m interested in ...
