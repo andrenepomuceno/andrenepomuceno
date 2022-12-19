@@ -1,9 +1,4 @@
 - 🤙 Hello world!
-- ❤️ Engineering
-- ❤️ Physics
-- ❤️ Computer Science
-- ❤️ Electronics
-- ❤️ Nature
 - 👽 🇧🇷 🧠 ☯️
 
 <!---
