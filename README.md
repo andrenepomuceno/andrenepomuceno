@@ -1,5 +1,5 @@
 - 🤙 Hello world!
-- 👽 🇧🇷 🧠 ☯️ :atom:
+- 👽 🇧🇷 🧠 ☯️ :atom: 🤖 💻
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
