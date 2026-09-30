@@ -1,5 +1,5 @@
 - 🤙 Hello world!
-- 👽 🇧🇷 🧠 ☯️ :atom: 🤖 💻 🏍️ 🪴
+- 👽 🇧🇷 🧠 ☯️ :atom: 🤖 💻 🏍️ 🪴 🎸
 - My personal website: [link](http://andrenepomuceno.com.br/)
 <!---
 - 👀 I’m interested in ...
